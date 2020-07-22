@@ -42,3 +42,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## 使用react实现 网易严选app
+
+```
+技术栈：React+React-router+Redux+TS+SCSS+Material-UI
+```
+[material](https://material-ui.com/zh/)[2](https://github.com/mui-org/material-ui)
+[SCSS](https://github.com/sass/sass)[中文1](https://www.sass.hk/docs/)[2](https://sass-guidelin.es/zh/#sass)
+[React](https://github.com/facebook/react)
+[React-router](https://github.com/ReactTraining/react-router)
+[Redux](https://github.com/reduxjs/redux)[中文](https://github.com/camsong/redux-in-chinese)
+[TypeScript](https://github.com/microsoft/TypeScript)[中文1](https://typescript.bootcss.com/declaration-files/introduction.html)
