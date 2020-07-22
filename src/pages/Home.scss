@@ -1,0 +1,41 @@
+.home {
+    width: 100%;
+    height: 100%;
+    .h-topHeader {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 5px;
+    }
+}
+
+
+.h-topLeft {
+    margin-left: 5px;
+}
+
+.htop-img {
+    width: 4.5rem;
+}
+
+.h-sa {
+    color: #666;
+    text-decoration: none;
+}
+
+.h-topInput {
+    width: 54%;
+    height: 32px;
+    background-color: #ededed;
+    border-radius: 5px;
+    padding-top: 3px;
+}
+
+.h-search {
+    float: left;
+    padding: 5px 0 0 10px;
+}
+
+.h-sinfo {
+    font-size: 14px;
+}
